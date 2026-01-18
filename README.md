@@ -20,7 +20,4 @@ This project demonstrates practical data cleaning skills using Python and Pandas
 - NumPy  
 - Jupyter Notebook  
 
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/data-cleaning-project.git
+
